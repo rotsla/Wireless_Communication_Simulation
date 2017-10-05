@@ -1,4 +1,12 @@
+#include <omnetpp.h>
+
+#include <stdio.h>
+
+#include <string.h>
+
 #include <iostream>
+
+using namespace omnetpp;
 
 class Channel : public cSimpleModule
 {
